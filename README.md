@@ -1,4 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## How to run 
+
+-Have Node.js installed<br>
+-Clone repo with command  git clone https://github.com/SebastianCJ/expensesTracker.git <br>
+-Move to root and run npm install <br>
+-Run npm start to run local dev server and go to http://localhost:3000/ <br>
+
 
 ## Available Scripts
 
